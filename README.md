@@ -29,4 +29,4 @@ We focus on population-level comparisons across Neanderthals, French, Yoruba, an
 
 ## Contributors
 - **Allison Arms**
-- **Keri**
+
